@@ -17,7 +17,7 @@ Help:
 ![image](https://github.com/inwtx/QuailEggDaylightScheduler/assets/32821617/3c9bec67-c023-481c-a726-2608eee380ee)
   
   
-Downloaded U.S. Navy Sunrise/Sunset table:
+Downloaded U.S. Navy Sunrise/Sunset table for current month:
   
 ![image](https://github.com/inwtx/QuailEggDaylightScheduler/assets/32821617/d4aec029-a17f-4879-a30b-7013754c52fc)
   
