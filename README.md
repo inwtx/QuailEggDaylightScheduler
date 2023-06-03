@@ -22,7 +22,7 @@ Help:
 ![image](https://github.com/inwtx/QuailEggDaylightScheduler/assets/32821617/588d0539-a12b-48b6-b6dd-99241642d4e6)
   
   
-Downloaded U.S. Navy Sunrise/Sunset table for current month:
+Downloaded U.S. Navy Sunrise/Sunset Table for current month: (note the 'Location:' is converted to degrees/minutes in the results)
   
 ![image](https://github.com/inwtx/QuailEggDaylightScheduler/assets/32821617/d4aec029-a17f-4879-a30b-7013754c52fc)
   
