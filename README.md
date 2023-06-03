@@ -12,9 +12,7 @@ button on the right side of page to download.
 
 Main interface:
   
-![image](https://github.com/inwtx/QuailEggDaylightScheduler/assets/32821617/344e1633-0fa4-4c7c-8bb3-bb48ce7d8738)
-
-![image](https://github.com/inwtx/QuailEggDaylightScheduler/assets/32821617/c71cd03e-e8d3-4e2e-b866-29249aed1d42)
+![image](https://github.com/inwtx/QuailEggDaylightScheduler/assets/32821617/2f28b29b-a2df-41e4-80b3-fbeac2d6065e)
 
   
 Help:
