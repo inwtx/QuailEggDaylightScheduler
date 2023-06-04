@@ -13,7 +13,7 @@ to download.
 
 Main interface:
 
-![image](https://github.com/inwtx/QuailEggDaylightScheduler/assets/32821617/42762414-7f1a-4075-82a5-68710cae2146)
+![image](https://github.com/inwtx/QuailEggDaylightScheduler/assets/32821617/ba13055b-3e41-4988-8173-090210eba5e4)
 <BR><BR>
 Help:
 
