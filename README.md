@@ -16,8 +16,8 @@ Main interface:
 ![image](https://github.com/inwtx/QuailEggDaylightScheduler/assets/32821617/42762414-7f1a-4075-82a5-68710cae2146)
 <BR><BR>
 Help:
-  
-![image](https://github.com/inwtx/QuailEggDaylightScheduler/assets/32821617/fd88dfde-cc1b-4559-9970-d90c5125a1f8)
+
+![image](https://github.com/inwtx/QuailEggDaylightScheduler/assets/32821617/ec9dc54e-6c19-4cb2-855d-7acb00e21dde)
 <BR><BR>
 Downloaded U.S. Navy Sunrise/Sunset Table for current year: (note the 'Location:' is converted from degrees/decimals to degrees/minutes in the results).
   
