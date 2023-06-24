@@ -1,4 +1,4 @@
-# Quail Egg Laying Daylight Scheduler v1.06
+# Quail Egg Laying Daylight Scheduler v1.07
 <b>Program to calculate how many hours of artificial light needed for proper Coturnix Quail egg laying.<BR>
 After setting up your Latitude, Longitude, and time zone parameters, the program will calculate how<BR>
 many additional current day daylight hours are needed to reach the proper daylight needed for<BR>
@@ -17,7 +17,7 @@ Main interface:
 <BR><BR>
 Help:
 
-![image](https://github.com/inwtx/QuailEggDaylightScheduler/assets/32821617/ec9dc54e-6c19-4cb2-855d-7acb00e21dde)
+![image](https://github.com/inwtx/QuailEggDaylightScheduler/assets/32821617/aac44697-2330-43ea-9905-76c235ec4921)
 <BR><BR>
 Downloaded U.S. Navy Sunrise/Sunset Table for current year: (note the 'Location:' is converted from degrees/decimals to degrees/minutes in the results).
   
