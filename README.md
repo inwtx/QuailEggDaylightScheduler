@@ -1,4 +1,4 @@
-# Quail Egg Laying Daylight Scheduler v1.07
+# Quail Egg Laying Daylight Scheduler v1.08
 <b>Program to calculate how many hours of artificial light needed for proper Coturnix Quail egg laying.<BR>
 After setting up your Latitude, Longitude, and time zone parameters, the program will calculate how<BR>
 many additional current day daylight hours are needed to reach the proper daylight needed for<BR>
